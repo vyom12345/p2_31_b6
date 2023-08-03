@@ -6,7 +6,6 @@ import android.util.Log
 import android.view.View
 import android.widget.Toast
 import com.google.android.material.snackbar.Snackbar
-import kotlin.math.log
 
 class MainActivity : AppCompatActivity() {
 
